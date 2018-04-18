@@ -1,7 +1,7 @@
 # React-Events - Event Finder App using MERN Stack
 This is an events app that uses Eventbrite API to find upcoming local events in your area. You can then save the events you like and find more information on them
 
-![alt tag](https://github.com/alexkeaveney/react-events/blob/master/screenshot.jpg)
+![alt tag](https://github.com/alexkeaveney/react-events/blob/master/screenshot.png)
 
 ## Getting Started
 
